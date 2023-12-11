@@ -74,11 +74,13 @@
             timeout-ms = <50>;
             key-positions = <45 46>;
             bindings = <&kp HOME>;
+            layers = 1;
         };
-        combo_home {
+        combo_end {
             timeout-ms = <50>;
             key-positions = <48 49>;
             bindings = <&kp END>;
+            layers = 1;
         };
     };
 };
