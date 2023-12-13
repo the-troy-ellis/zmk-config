@@ -23,8 +23,8 @@
                 
         COMBO(home, &kp HOME, 44 45)
         COMBO(end,  &kp END, 47 48)
-        COMBO(end,  &kp UP, 31 32)
-        COMBO(end,  &kp DOWN, 45 46)
+        COMBO(up,  &kp UP, 31 32)
+        COMBO(down,  &kp DOWN, 45 46)
 
     };
     keymap {
