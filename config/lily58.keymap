@@ -21,7 +21,7 @@
     combos {
         compatible = "zmk,combos";
                 
-        COMBO(home, &kp HOME, 31 32)
+        COMBO(home, &kp HOME, 30 31)
         COMBO(end,  &kp END, 44 45)
 
     };
