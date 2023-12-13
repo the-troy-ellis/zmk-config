@@ -21,8 +21,10 @@
     combos {
         compatible = "zmk,combos";
                 
-        COMBO(home, &kp HOME, 30 31)
-        COMBO(end,  &kp END, 44 45)
+        COMBO(home, &kp HOME, 44 45)
+        COMBO(end,  &kp END, 47 48)
+        COMBO(end,  &kp UP, 31 32)
+        COMBO(end,  &kp DOWN, 45 46)
 
     };
     keymap {
